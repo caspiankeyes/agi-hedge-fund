@@ -56,7 +56,7 @@ Each agent processes market data through its unique cognitive lens, contributing
 
 ## **`Recursive Cognition Flow`**
 
-<div align="center">
+
   
 ### **`In Production`**
 
