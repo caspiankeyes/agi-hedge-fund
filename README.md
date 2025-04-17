@@ -30,9 +30,7 @@
 
 ## 📊 Performance Visualization
 
-<div align="center">
-  <img src="docs/assets/images/performance_graph.png" alt="AGI-HEDGE-FUND Performance" width="600"/>
-</div>
+### **`In Production`**
 
 ## **`Agent Architecture`**
 
@@ -53,8 +51,8 @@ Each agent processes market data through its unique cognitive lens, contributing
 ## **`Recursive Cognition Flow`**
 
 <div align="center">
-  <img src="docs/assets/images/recursive_flow.png" alt="Recursive Cognition Flow" width="700"/>
-</div>
+  
+### **`In Production`**
 
 The system operates through nested cognitive loops that implement a recursive market interpretation framework:
 
