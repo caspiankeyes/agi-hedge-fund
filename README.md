@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>AGI Hedge Fund</h1>
-  <p><i>Multi-agent recursive market cognition framework</i></p>
+# **`AGI Hedge Fund`**
+## **`Multi-agent recursive market cognition framework`**
 
 
   [![License](https://img.shields.io/badge/license-PolyForm-blue.svg)](https://opensource.org/licenses/MIT)
