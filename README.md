@@ -35,8 +35,7 @@
 
 ## 📊 Performance Visualization
 
-#### **`Visuals In Production`**
-
+![image](https://github.com/user-attachments/assets/ae7d728b-f23d-48ec-9d0a-a81c78d07e06)
 ## **`Agent Architecture`**
 
 AGI-HEDGE-FUND implements a lattice of cognitive agents, each embodying a distinct investment philosophy and decision framework:
