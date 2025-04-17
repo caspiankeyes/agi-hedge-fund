@@ -118,49 +118,6 @@ portfolio.generate_attribution_report()
 portfolio.visualize_consensus_graph()
 ```
 
-## 🧩 Architecture
-
-The project is structured to accommodate both casual users and those interested in deeper cognitive engineering:
-
-```
-agi-hedge-fund/
-├── src/
-│   ├── agents/                  # Agent implementations
-│   │   ├── base.py              # Base agent architecture
-│   │   ├── graham.py            # Value investor agent
-│   │   ├── wood.py              # Innovation investor agent
-│   │   ├── dalio.py             # Macro investor agent
-│   │   ├── ackman.py            # Activist investor agent
-│   │   ├── simons.py            # Quant investor agent
-│   │   ├── taleb.py             # Antifragile investor agent
-│   │   └── meta.py              # Portfolio meta-agent
-│   ├── cognition/               # Recursive reasoning framework
-│   │   ├── graph.py             # LangGraph reasoning implementation
-│   │   ├── memory.py            # Temporal memory shell
-│   │   ├── attribution.py       # Decision attribution tracing
-│   │   └── arbitration.py       # Consensus mechanisms
-│   ├── market/                  # Market data interfaces
-│   │   ├── sources/             # Data provider integrations
-│   │   ├── environment.py       # Market simulation environment
-│   │   └── backtesting.py       # Historical testing framework
-│   ├── llm/                     # Language model integrations
-│   │   ├── models/              # Model-specific implementations
-│   │   ├── router.py            # Multi-model routing logic
-│   │   └── prompts/             # Structured prompting templates
-│   ├── utils/                   # Utility functions
-│   │   ├── diagnostics/         # Interpretability tools 
-│   │   ├── visualization.py     # Performance visualization
-│   │   └── metrics.py           # Performance metrics
-│   └── portfolio/               # Portfolio management
-│       ├── manager.py           # Core portfolio manager
-│       ├── allocation.py        # Position sizing logic
-│       └── risk.py              # Risk management
-├── examples/                    # Example usage scripts
-├── tests/                       # Test suite
-├── docs/                        # Documentation
-└── notebooks/                   # Jupyter notebooks
-```
-
 ## 🔍 Interpretability
 
 AGI-HEDGE-FUND prioritizes transparent decision-making through recursive attribution tracing. Use the following flags to inspect agent cognition:
