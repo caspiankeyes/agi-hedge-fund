@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>AGI-HEDGE-FUND</h1>
+  <h1>AGI HEDGE FUND</h1>
   <p><i>Multi-agent recursive market cognition framework</i></p>
 
   [![GitHub Stars](https://img.shields.io/github/stars/agi-hedge-fund/agi-hedge-fund?style=flat-square)](https://github.com/agi-hedge-fund/agi-hedge-fund/stargazers)
