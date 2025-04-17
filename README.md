@@ -10,13 +10,13 @@
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
 
-## 🌐 Overview
+## **`Overview`**
 
 **AGI-HEDGE-FUND** is an experimental open-source framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
 
 > *"Markets are efficient precisely to the extent that recursive cognition can penetrate their complexity."*
 
-## 🚀 Key Features
+## **`Key Features`**
 
 - **Philosophical Agent Lattice**: Specialized agents embodying distinct investment philosophies from value investing to disruptive innovation
 - **Recursive Reasoning Architecture**: LangGraph-powered reasoning loops with transparent attribution paths
@@ -34,7 +34,7 @@
   <img src="docs/assets/images/performance_graph.png" alt="AGI-HEDGE-FUND Performance" width="600"/>
 </div>
 
-## 🧠 Agent Architecture
+## **`Agent Architecture`**
 
 AGI-HEDGE-FUND implements a lattice of cognitive agents, each embodying a distinct investment philosophy and decision framework:
 
@@ -50,7 +50,7 @@ AGI-HEDGE-FUND implements a lattice of cognitive agents, each embodying a distin
 
 Each agent processes market data through its unique cognitive lens, contributing signals to the portfolio meta-agent which recursively arbitrates and integrates perspectives.
 
-## 🔄 Recursive Cognition Flow
+## **`Recursive Cognition Flow`**
 
 <div align="center">
   <img src="docs/assets/images/recursive_flow.png" alt="Recursive Cognition Flow" width="700"/>
@@ -65,7 +65,7 @@ The system operates through nested cognitive loops that implement a recursive ma
 5. **Position Formulation**: Final decision synthesis with attribution
 6. **Temporal Reflection**: Performance evaluation and belief updating
 
-## 📋 Installation
+## **`Installation`**
 
 ```bash
 # Clone the repository
@@ -80,7 +80,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -e .
 ```
 
-## ⚡ Quick Start
+## **`Quick Start`**
 
 ```python
 from agi_hedge_fund import PortfolioManager
@@ -118,7 +118,7 @@ portfolio.generate_attribution_report()
 portfolio.visualize_consensus_graph()
 ```
 
-## 🔍 Interpretability
+## **`Interpretability`**
 
 AGI-HEDGE-FUND prioritizes transparent decision-making through recursive attribution tracing. Use the following flags to inspect agent cognition:
 
@@ -136,7 +136,7 @@ python -m agi_hedge_fund.run --agent-conflict-map
 python -m agi_hedge_fund.run --attribution-report
 ```
 
-## 🚧 Extending the Framework
+## **`Extending the Framework`**
 
 The system is designed for extensibility at multiple levels:
 
