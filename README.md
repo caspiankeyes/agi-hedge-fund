@@ -56,8 +56,7 @@ Each agent processes market data through its unique cognitive lens, contributing
 
 ## **`Recursive Cognition Flow`**
   
-#### **`Visuals In Production`**
-
+![image](https://github.com/user-attachments/assets/24dce119-5e5a-4042-aaf5-91a559eb2828)
 The system operates through nested cognitive loops that implement a recursive market interpretation framework:
 
 1. **Market Signal Perception**: Raw data ingestion and normalization
