@@ -3,9 +3,8 @@
   <h1>AGI HEDGE FUND</h1>
   <p><i>Multi-agent recursive market cognition framework</i></p>
 
-  [![GitHub Stars](https://img.shields.io/github/stars/agi-hedge-fund/agi-hedge-fund?style=flat-square)](https://github.com/agi-hedge-fund/agi-hedge-fund/stargazers)
+
   [![License](https://img.shields.io/badge/license-PolyForm-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Issues](https://img.shields.io/github/issues/agi-hedge-fund/agi-hedge-fund?style=flat-square)](https://github.com/agi-hedge-fund/agi-hedge-fund/issues)
   [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
