@@ -10,6 +10,13 @@
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
 
+
+> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Classification: Technical Reference Documentation**  
+> **Version: 0.9.3-alpha**  
+> **Last Updated: 2025-04-16**
+>
+> 
 ## **`Overview`**
 
 **AGI-HEDGE-FUND** is an experimental open-source framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
