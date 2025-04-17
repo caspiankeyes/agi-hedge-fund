@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>AGI HEDGE FUND</h1>
+  <h1>AGI Hedge Fund</h1>
   <p><i>Multi-agent recursive market cognition framework</i></p>
 
 
