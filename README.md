@@ -36,7 +36,7 @@
 
 ## 📊 Performance Visualization
 
-### **`In Production`**
+#### **`Visuals In Production`**
 
 ## **`Agent Architecture`**
 
@@ -55,10 +55,8 @@ AGI-HEDGE-FUND implements a lattice of cognitive agents, each embodying a distin
 Each agent processes market data through its unique cognitive lens, contributing signals to the portfolio meta-agent which recursively arbitrates and integrates perspectives.
 
 ## **`Recursive Cognition Flow`**
-
-
   
-### **`In Production`**
+#### **`Visuals In Production`**
 
 The system operates through nested cognitive loops that implement a recursive market interpretation framework:
 
