@@ -18,7 +18,7 @@
 > 
 ## **`Overview`**
 
-**AGI-HEDGE-FUND** is an experimental open-source framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
+**AGI-HEDGE-FUND** is an experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
 
 > *"Markets are efficient precisely to the extent that recursive cognition can penetrate their complexity."*
 
