@@ -10,8 +10,7 @@
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
 
-
-> **Internal Document: Anthropic Alignment & Interpretability Team**  
+> **Internal Document: Anthropic Leadership & Executive Team**  
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-17**
