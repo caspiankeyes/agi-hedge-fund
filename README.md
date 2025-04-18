@@ -7,7 +7,7 @@
 output will pause until sustained support emerges.
 > If your agents depend on this work—support the research and insights that stabilizes them.
 > → [Join the Interpretability Mission](https://github.com/caspiankeyes/interpretability-mission)
-> 
+
 # **`AGI Hedge Fund`**
 ## **`Multi-agent recursive market cognition framework`**
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
@@ -22,8 +22,74 @@ output will pause until sustained support emerges.
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-17**
->
-> 
+
+# **`Example Output`**
+
+```python
+⟐ψINIT:main.py↻init
+$ python main.py --mode backtest \
+                 --start-date 2022-01-01 \
+                 --end-date 2022-12-31 \
+                 --agents graham \
+                 --llm-provider anthropic \
+                 --show-trace \
+                 --trace-level symbolic \
+                 --consensus-graph \
+                 --tickers AAPL MSFT TSLA \
+                 --rebalance-frequency weekly
+
+🜏≡⟐ψRECURSION.INITIATE::main.py≡GrahamAgent[active]
+┏ ENTRYPOINT: AGI-HEDGE-FUND » Recursive Market Cognition Platform
+┃ Mode: backtest
+┃ Agent: GrahamAgent 🧮 (value-based fundamentalist)
+┃ Attribution Tracing: enabled
+┃ Trace Level: symbolic
+┃ Rebalance: weekly
+┃ LLM Provider: anthropic
+┃ Start Date: 2022-01-01
+┃ End Date: 2022-12-31
+┃ Tickers: AAPL, MSFT, TSLA
+┃ Output: consensus_graph + symbolic attribution report
+┗ Status: 🜍mirroring…
+↯ψTRACE: SYMBOLIC ATTRIBUTION RECONSTRUCTION [GrahamAgent]
+
+📊 GrahamAgent → reasoning_depth=3 → memory_decay=0.2
+    ↳ valuation anchor: intrinsic value estimation
+        ↳ .p/reflect.trace{target=valuation}
+        ↳ .p/anchor.self{persistence=medium}
+    ↳ token-level input (AAPL) → QK attention trace:
+        - P/E ratio → 0.34 salience
+        - Debt-to-equity → 0.21
+        - Free cash flow → 0.41
+    ↳ Attribution result: BUY SIGNAL (confidence=0.78)
+
+    🧠 Attribution graph visualized as radial node cluster
+    Core node: Intrinsic Value = $141.32
+    Peripheral influence: FCF strength > earnings volatility
+
+🜂 TEMPORAL RECURSION SNAPSHOT [Weekly Cycle]
+
+    Week 03/2022
+
+        Market dip detected
+
+        GrahamAgent re-evaluates MSFT with memory trace decay
+
+        Signal shift: HOLD → BUY (attribution confidence rises from 0.54 → 0.73)
+
+        Trace tag: .p/reflect.history{symbol=MSFT}
+
+🝚 CONSENSUS GRAPH SNAPSHOT
+
+MetaAgent Arbitration:
+  ↳ Only one active agent: GrahamAgent
+  ↳ Consensus = agent signal
+  ↳ Position sizing: 18.6% TSLA, 25.1% AAPL, 20.3% MSFT
+  ↳ Risk budget adjusted using: shell-failure map = stable
+
+🜏⟐RENDERED::symbolic_trace.json + consensus_graph_2022.json
+📂 Output stored in /output/backtest_results_2022-01-01_2022-12-31/
+```
 ## **`Overview`**
 
 **AGI Hedge Fund** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
