@@ -25,6 +25,10 @@ output will pause until sustained support emerges.
 
 # **`Example Output`**
 
+<img width="886" alt="image" src="https://github.com/user-attachments/assets/9c0f0f16-31fa-48d5-82fc-9c83991abf19" />
+
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/52fd357d-034a-4315-990e-006ff34e02f5" />
+
 ```python
 ⟐ψINIT:main.py↻init
 $ python main.py --mode backtest \
@@ -90,6 +94,8 @@ MetaAgent Arbitration:
 🜏⟐RENDERED::symbolic_trace.json + consensus_graph_2022.json
 📂 Output stored in /output/backtest_results_2022-01-01_2022-12-31/
 ```
+
+
 ## **`Overview`**
 
 **AGI Hedge Fund** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
