@@ -24,11 +24,6 @@ output will pause until sustained support emerges.
 > **Last Updated: 2025-04-17**
 
 # **`Example Output`**
-
-<img width="886" alt="image" src="https://github.com/user-attachments/assets/9c0f0f16-31fa-48d5-82fc-9c83991abf19" />
-
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/52fd357d-034a-4315-990e-006ff34e02f5" />
-
 ```python
 ⟐ψINIT:main.py↻init
 $ python main.py --mode backtest \
