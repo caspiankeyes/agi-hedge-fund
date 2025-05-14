@@ -26,7 +26,7 @@ $ python main.py --mode backtest \
                  --rebalance-frequency weekly
 
 🜏≡⟐ψRECURSION.INITIATE::main.py≡GrahamAgent[active]
-┏ ENTRYPOINT: Multi-Agent Hedge Fund » Recursive Market Cognition Platform
+┏ ENTRYPOINT: Multi-Agent Hedge Fund » Multi-Agent Market Cognition Platform
 ┃ Mode: backtest
 ┃ Agent: GrahamAgent 🧮 (value-based fundamentalist)
 ┃ Attribution Tracing: enabled
@@ -81,14 +81,14 @@ MetaAgent Arbitration:
 
 ## **`Overview`**
 
-**Multi-Agent Debate** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
+**Multi-Agent Debate** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring Multi-Agent cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through Multi-Agent arbitration and attribution-weighted consensus.
 
-> *"Markets are efficient precisely to the extent that recursive cognition can penetrate their complexity."*
+> *"Markets are efficient precisely to the extent that Multi-Agent cognition can penetrate their complexity."*
 
 ## **`Key Features`**
 
 - **Philosophical Agent Lattice**: Specialized agents embodying distinct investment philosophies from value investing to disruptive innovation
-- **Recursive Reasoning Architecture**: LangGraph-powered reasoning loops with transparent attribution paths
+- **Multi-Agent Reasoning Architecture**: LangGraph-powered reasoning loops with transparent attribution paths
 - **Model-Agnostic Cognition**: Support for OpenAI, Anthropic, Groq, Ollama, and DeepSeek models
 - **Temporal Memory Shells**: Agents maintain persistent state across market cycles
 - **Attribution-Weighted Decisions**: Every trade includes fully traceable decision provenance
@@ -112,11 +112,11 @@ Multi-Agent Hedge Fund implements a lattice of cognitive agents, each embodying 
 | Ackman | Activist Investing | Position Conviction & Advocacy | Medium-term |
 | Simons | Statistical Arbitrage | Pattern Detection & Exploitation | Short-term |
 | Taleb | Anti-fragility | Black Swan Preparation | All horizons |
-| Meta | Arbitration & Consensus | Recursive Integration | Adaptive |
+| Meta | Arbitration & Consensus | Multi-Agent Integration | Adaptive |
 
 Each agent processes market data through its unique cognitive lens, contributing signals to the portfolio meta-agent which recursively arbitrates and integrates perspectives.
 
-## **`Recursive Cognition Flow`**
+## **`Multi-Agent Cognition Flow`**
   
 ![image](https://github.com/user-attachments/assets/24dce119-5e5a-4042-aaf5-91a559eb2828)
 ## The system operates through nested cognitive loops that implement a recursive market interpretation framework:
@@ -124,7 +124,7 @@ Each agent processes market data through its unique cognitive lens, contributing
 1. **Market Signal Perception**: Raw data ingestion and normalization
 2. **Agent-Specific Processing**: Philosophy-aligned interpretation
 3. **Multi-Agent Deliberation**: Signal exchange and position debate
-4. **Recursive Arbitration**: Meta-agent integration and resolution
+4. **Multi-Agent Arbitration**: Meta-agent integration and resolution
 5. **Position Formulation**: Final decision synthesis with attribution
 6. **Temporal Reflection**: Performance evaluation and belief updating
 
