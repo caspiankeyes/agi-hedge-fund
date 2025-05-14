@@ -81,7 +81,7 @@ MetaAgent Arbitration:
 
 ## **`Overview`**
 
-**AGI Hedge Fund** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
+**Multi-Agent Debate** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
 
 > *"Markets are efficient precisely to the extent that recursive cognition can penetrate their complexity."*
 
@@ -146,9 +146,9 @@ pip install -e .
 ## **`Quick Start`**
 
 ```python
-from agi_hedge_fund import PortfolioManager
-from agi_hedge_fund.agents import GrahamAgent, WoodAgent, DalioAgent
-from agi_hedge_fund.market import MarketEnvironment
+from multi_agent_debate import PortfolioManager
+from multi_agent_debate.agents import GrahamAgent, WoodAgent, DalioAgent
+from multi_agent_debate.market import MarketEnvironment
 
 # Initialize market environment
 market = MarketEnvironment(data_source="yahoo", tickers=["AAPL", "MSFT", "GOOGL", "AMZN"])
@@ -187,16 +187,16 @@ Multi-Agent Hedge Fund prioritizes transparent decision-making through recursive
 
 ```bash
 # Run with complete reasoning trace
-python -m agi_hedge_fund.run --show-trace
+python -m multi_agent_debate.run --show-trace
 
 # Visualize agent consensus formation
-python -m agi_hedge_fund.run --consensus-graph
+python -m multi_agent_debate.run --consensus-graph
 
 # Map conflicts in multi-agent deliberation
-python -m agi_hedge_fund.run --agent-conflict-map
+python -m multi_agent_debate.run --agent-conflict-map
 
 # Generate attribution report for all trades
-python -m agi_hedge_fund.run --attribution-report
+python -m multi_agent_debate.run --attribution-report
 ```
 
 ## **`Extending the Framework`**
@@ -206,7 +206,7 @@ The system is designed for extensibility at multiple levels:
 ### Creating Custom Agents
 
 ```python
-from agi_hedge_fund.agents import BaseAgent
+from multi_agent_debate.agents import BaseAgent
 
 class CustomAgent(BaseAgent):
     def __init__(self, reasoning_depth=3, memory_decay=0.2):
@@ -234,7 +234,7 @@ class CustomAgent(BaseAgent):
 ### Customizing the Arbitration Layer
 
 ```python
-from agi_hedge_fund.cognition import ArbitrationMechanism
+from multi_agent_debate.cognition import ArbitrationMechanism
 
 class CustomArbitration(ArbitrationMechanism):
     def __init__(self, weighting_strategy="confidence"):
@@ -274,7 +274,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 If you use Multi-Agent Hedge Fund in your research, please cite:
 
 ```bibtex
-@software{agi_hedge_fund2024,
+@software{multi_agent_debate2024,
   author = {{Multi-Agent Hedge Fund Contributors}},
   title = {Multi-Agent Hedge Fund: Multi-agent recursive market cognition framework},
   url = {https://github.com/Multi-Agent Hedge Fund/Multi-Agent Hedge Fund},
