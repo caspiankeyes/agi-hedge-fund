@@ -15,7 +15,7 @@ In this example, we'll follow a complete decision cycle focused on analyzing Tes
 The process begins with market data ingestion from Yahoo Finance:
 
 ```python
-from agi_hedge_fund.market.environment import MarketEnvironment
+from multi_agent_debate.market.environment import MarketEnvironment
 
 # Initialize market environment
 market = MarketEnvironment(data_source="yahoo", tickers=["TSLA"])
