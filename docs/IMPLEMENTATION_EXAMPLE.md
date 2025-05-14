@@ -1,6 +1,6 @@
 # Recursive Implementation Example
 
-This document provides a detailed example of how the recursive cognitive architecture works in AGI-HEDGE-FUND. We'll walk through the complete lifecycle of a market decision, from data ingestion to trade execution, highlighting the recursive patterns and interpretability mechanisms at each stage.
+This document provides a detailed example of how the recursive cognitive architecture works in Multi-Agent Debate. We'll walk through the complete lifecycle of a market decision, from data ingestion to trade execution, highlighting the recursive patterns and interpretability mechanisms at each stage.
 
 ## Overview
 
@@ -1072,7 +1072,7 @@ These commands form the foundation of the system's interpretability architecture
 
 ## Conclusion
 
-This example demonstrates the recursive cognitive architecture of AGI-HEDGE-FUND in action. From market data ingestion to trade execution, the system maintains complete transparency and interpretability through:
+This example demonstrates the recursive cognitive architecture of Multi-Agent Debate in action. From market data ingestion to trade execution, the system maintains complete transparency and interpretability through:
 
 1. Agent-specific cognitive lenses
 2. Recursive reasoning graphs
