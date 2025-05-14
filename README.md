@@ -9,7 +9,14 @@
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
 
-## **`Example Output`**
+
+
+## **`Overview`**
+
+**Multi-Agent Debate** is the first experimental open framework that approaches debate consensus and financial markets as complex adaptive systems requiring Multi-Agent cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through Multi-Agent arbitration and attribution-weighted consensus.
+
+> *"Markets are efficient precisely to the extent that Multi-Agent cognition can penetrate their complexity."*
+## **Example Output**
 
 
 ```python
@@ -77,13 +84,6 @@ MetaAgent Arbitration:
 🜏⟐RENDERED::symbolic_trace.json + consensus_graph_2022.json
 📂 Output stored in /output/backtest_results_2022-01-01_2022-12-31/
 ```
-
-
-## **`Overview`**
-
-**Multi-Agent Debate** is the first experimental open framework that approaches debate consensus and financial markets as complex adaptive systems requiring Multi-Agent cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through Multi-Agent arbitration and attribution-weighted consensus.
-
-> *"Markets are efficient precisely to the extent that Multi-Agent cognition can penetrate their complexity."*
 
 ## **`Key Features`**
 
