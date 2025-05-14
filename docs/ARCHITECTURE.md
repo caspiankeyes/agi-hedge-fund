@@ -220,7 +220,7 @@ The system is designed for extensibility at multiple levels:
 New philosophical agents can be added by extending the BaseAgent class:
 
 ```python
-from agi_hedge_fund.agents import BaseAgent
+from multi_agent_debate.agents import BaseAgent
 
 class CustomAgent(BaseAgent):
     def __init__(self, reasoning_depth=3, memory_decay=0.2):
@@ -245,7 +245,7 @@ class CustomAgent(BaseAgent):
 New LLM providers can be added by extending the ModelProvider class:
 
 ```python
-from agi_hedge_fund.llm.router import ModelProvider
+from multi_agent_debate.llm.router import ModelProvider
 
 class CustomProvider(ModelProvider):
     def __init__(self, api_key=None):
@@ -270,7 +270,7 @@ class CustomProvider(ModelProvider):
 New interpretability shell patterns can be added by extending the ShellPattern enum:
 
 ```python
-from agi_hedge_fund.utils.diagnostics import ShellPattern
+from multi_agent_debate.utils.diagnostics import ShellPattern
 
 # Add new shell pattern
 ShellPattern.CUSTOM_PATTERN = "v999 CUSTOM-PATTERN"
