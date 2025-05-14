@@ -1,13 +1,13 @@
-# AGI-HEDGE-FUND Architecture Overview
+# Multi-Agent Debate Architecture Overview
 
 <div align="center">
-   <img src="assets/images/architecture_diagram.png" alt="AGI-HEDGE-FUND Architecture" width="800"/>
+   <img src="assets/images/architecture_diagram.png" alt="Multi-Agent Debate Architecture" width="800"/>
    <p><i>Multi-agent recursive market cognition framework</i></p>
 </div>
 
 ## Recursive Cognitive Architecture
 
-AGI-HEDGE-FUND implements a multi-layer recursive cognitive architecture that allows for deep reasoning, interpretable decision making, and emergent market understanding. The system operates through nested cognitive loops that implement a transparent and traceable decision framework.
+Multi-Agent Debate implements a multi-layer recursive cognitive architecture that allows for deep reasoning, interpretable decision making, and emergent market understanding. The system operates through nested cognitive loops that implement a transparent and traceable decision framework.
 
 ### Architectural Layers
 
@@ -43,7 +43,7 @@ AGI-HEDGE-FUND implements a multi-layer recursive cognitive architecture that al
 
 ## Agent Architecture
 
-Agents in AGI-HEDGE-FUND implement a recursive cognitive architecture with the following components:
+Agents in Multi-Agent Debate implement a recursive cognitive architecture with the following components:
 
 ### Memory Shell
 
@@ -116,7 +116,7 @@ This creates a dynamic, self-optimizing meta-strategy that adapts to changing ma
 
 ## Recursive Tracing Architecture
 
-A key feature of AGI-HEDGE-FUND is its recursive tracing architecture that enables complete visibility into decision processes. This is implemented through:
+A key feature of Multi-Agent Debate is its recursive tracing architecture that enables complete visibility into decision processes. This is implemented through:
 
 ### Attribution Tracing
 
@@ -333,7 +333,7 @@ The system includes diagnostic tools for interpretability:
 
 ## Conclusion
 
-The AGI-HEDGE-FUND architecture provides a recursive cognitive framework for multi-agent market understanding with complete transparency and interpretability. By combining philosophical agent archetypes, recursive reasoning, attribution tracing, and emergent meta-strategy, it enables a new approach to financial decision making that is both effective and explainable.
+The Multi-Agent Debate architecture provides a recursive cognitive framework for multi-agent market understanding with complete transparency and interpretability. By combining philosophical agent archetypes, recursive reasoning, attribution tracing, and emergent meta-strategy, it enables a new approach to financial decision making that is both effective and explainable.
 
 The system's design principles—recursion, attribution, interpretability, and emergence—create a platform that goes beyond traditional algorithmic trading to implement a true cognitive approach to market understanding.
 
