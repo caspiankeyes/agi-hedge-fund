@@ -1,7 +1,6 @@
 <div align="center">
 
-# **`AGI Hedge Fund`**
-# **`Web + Runtime Multi-Agent Hedge Fund`**
+# **Multiagent Hedge Fund**
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -12,7 +11,6 @@
 
 # **`Example Output`**
 
-<img width="889" alt="image" src="https://github.com/user-attachments/assets/0c3ce5f1-ef79-46d6-9e74-bd57db2d047c" />
 
 ```python
 ⟐ψINIT:main.py↻init
