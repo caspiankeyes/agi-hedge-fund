@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Multiagent Hedge Fund**
+# **Multi-Agent Hedge Fund**
 
 [![License: POLYFORM](https://img.shields.io/badge/Code-PolyForm-scarlet.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/)
 [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Docs-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
@@ -26,7 +26,7 @@ $ python main.py --mode backtest \
                  --rebalance-frequency weekly
 
 🜏≡⟐ψRECURSION.INITIATE::main.py≡GrahamAgent[active]
-┏ ENTRYPOINT: AGI-HEDGE-FUND » Recursive Market Cognition Platform
+┏ ENTRYPOINT: Multi-Agent Hedge Fund » Recursive Market Cognition Platform
 ┃ Mode: backtest
 ┃ Agent: GrahamAgent 🧮 (value-based fundamentalist)
 ┃ Attribution Tracing: enabled
@@ -81,7 +81,7 @@ MetaAgent Arbitration:
 
 ## **`Overview`**
 
-**AGI Hedge Fund** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, AGI-HEDGE-FUND implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
+**AGI Hedge Fund** is the first experimental open framework that approaches financial markets as complex adaptive systems requiring recursive cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through recursive arbitration and attribution-weighted consensus.
 
 > *"Markets are efficient precisely to the extent that recursive cognition can penetrate their complexity."*
 
@@ -102,7 +102,7 @@ MetaAgent Arbitration:
 ![image](https://github.com/user-attachments/assets/ae7d728b-f23d-48ec-9d0a-a81c78d07e06)
 ## **`Agent Architecture`**
 
-AGI-HEDGE-FUND implements a lattice of cognitive agents, each embodying a distinct investment philosophy and decision framework:
+Multi-Agent Hedge Fund implements a lattice of cognitive agents, each embodying a distinct investment philosophy and decision framework:
 
 | Agent | Philosophy | Cognitive Signature | Time Horizon |
 |-------|------------|---------------------|-------------|
@@ -132,8 +132,8 @@ Each agent processes market data through its unique cognitive lens, contributing
 
 ```bash
 # Clone the repository
-git clone https://github.com/agi-hedge-fund/agi-hedge-fund.git
-cd agi-hedge-fund
+git clone https://github.com/Multi-Agent Hedge Fund/Multi-Agent Hedge Fund.git
+cd Multi-Agent Hedge Fund
 
 # Create and activate virtual environment
 python -m venv venv
@@ -183,7 +183,7 @@ portfolio.visualize_consensus_graph()
 
 ## **`Interpretability`**
 
-AGI-HEDGE-FUND prioritizes transparent decision-making through recursive attribution tracing. Use the following flags to inspect agent cognition:
+Multi-Agent Hedge Fund prioritizes transparent decision-making through recursive attribution tracing. Use the following flags to inspect agent cognition:
 
 ```bash
 # Run with complete reasoning trace
@@ -271,13 +271,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## 📚 Citation
 
-If you use AGI-HEDGE-FUND in your research, please cite:
+If you use Multi-Agent Hedge Fund in your research, please cite:
 
 ```bibtex
 @software{agi_hedge_fund2024,
-  author = {{AGI-HEDGE-FUND Contributors}},
-  title = {AGI-HEDGE-FUND: Multi-agent recursive market cognition framework},
-  url = {https://github.com/agi-hedge-fund/agi-hedge-fund},
+  author = {{Multi-Agent Hedge Fund Contributors}},
+  title = {Multi-Agent Hedge Fund: Multi-agent recursive market cognition framework},
+  url = {https://github.com/Multi-Agent Hedge Fund/Multi-Agent Hedge Fund},
   year = {2024},
 }
 ```
@@ -291,6 +291,6 @@ If you use AGI-HEDGE-FUND in your research, please cite:
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the AGI-HEDGE-FUND team</p>
+  <p>Built with ❤️ by the Multi-Agent Hedge Fund team</p>
   <p><i>Recursion. Interpretation. Emergence.</i></p>
 </div>
