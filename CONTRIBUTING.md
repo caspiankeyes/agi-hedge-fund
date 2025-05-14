@@ -133,7 +133,7 @@ To add a new philosophical agent:
 Example:
 
 ```python
-from agi_hedge_fund.agents.base import BaseAgent, AgentSignal
+from multi_agent_debate.agents.base import BaseAgent, AgentSignal
 
 class MyNewAgent(BaseAgent):
     def __init__(
@@ -195,7 +195,7 @@ To add a new LLM provider:
 Example:
 
 ```python
-from agi_hedge_fund.llm.router import ModelProvider, ModelCapability
+from multi_agent_debate.llm.router import ModelProvider, ModelCapability
 
 class MyCustomProvider(ModelProvider):
     """Custom model provider."""
@@ -244,7 +244,7 @@ To add new diagnostic capabilities:
 Example:
 
 ```python
-from agi_hedge_fund.utils.diagnostics import ShellPattern
+from multi_agent_debate.utils.diagnostics import ShellPattern
 
 # Add new shell pattern
 class MyCustomShellPattern(ShellPattern):
