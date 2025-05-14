@@ -9,7 +9,7 @@
   [![Cognition Depth](https://img.shields.io/badge/cognition%20depth-recursive-purple.svg)](docs/ARCHITECTURE.md)
 </div>
 
-# **`Example Output`**
+## **`Example Output`**
 
 
 ```python
