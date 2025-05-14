@@ -4,14 +4,14 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="agi-hedge-fund",
+    name="multi_agent_debate",
     version="0.1.0",
-    author="AGI-HEDGE-FUND Contributors",
-    author_email="contributors@agi-hedge-fund.org",
+    author="multi_agent_debate Contributors",
+    author_email="contributors@multi_agent_debate.org",
     description="Multi-agent recursive market cognition framework",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/agi-hedge-fund/agi-hedge-fund",
+    url="https://github.com/multi_agent_debate/multi_agent_debate",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     classifiers=[
@@ -62,7 +62,7 @@ setup(
     },
     entry_points={
         "console_scripts": [
-            "agi-hedge-fund=src.main:main",
+            "multi_agent_debate=src.main:main",
         ],
     },
 )
