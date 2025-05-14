@@ -1,4 +1,4 @@
-# Contributing to AGI Hedge Fund
+# Contributing to Multi-Agent Debate
 
 Thank you for your interest in contributing to AGI-HEDGE-FUND! This document provides guidelines and instructions for contributing to the project.
 
