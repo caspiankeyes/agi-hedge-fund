@@ -11,7 +11,7 @@
 
 
 
-## **`Overview`**
+## **Overview**
 
 **Multi-Agent Debate** is the first experimental open framework that approaches debate consensus and financial markets as complex adaptive systems requiring multi-agent cognitive architectures for interpretation. Unlike traditional debate consensus or algorithmic trading arbitration, multi-agent debate implements a multi-agent system where each agent embodies a distinct philosophy, enabling dynamic market understanding through multi-agent decision-making and attribution-weighted consensus.
 
@@ -85,7 +85,7 @@ MetaAgent Arbitration:
 📂 Output stored in /output/backtest_results_2022-01-01_2022-12-31/
 ```
 
-## **`Key Features`**
+## **Key Features**
 
 - **Philosophical Agent Lattice**: Specialized agents embodying distinct investment philosophies from value investing to disruptive innovation
 - **Multi-Agent Reasoning Architecture**: LangGraph-powered reasoning loops with transparent attribution paths
@@ -100,7 +100,7 @@ MetaAgent Arbitration:
 ## 📊 Performance Visualization
 
 ![image](https://github.com/user-attachments/assets/ae7d728b-f23d-48ec-9d0a-a81c78d07e06)
-## **`Agent Architecture`**
+## **Agent Architecture**
 
 Multi-Agent Hedge Fund implements a lattice of cognitive agents, each embodying a distinct investment philosophy and decision framework:
 
@@ -116,7 +116,7 @@ Multi-Agent Hedge Fund implements a lattice of cognitive agents, each embodying 
 
 Each agent processes market data through its unique cognitive lens, contributing signals to the portfolio meta-agent which recursively arbitrates and integrates perspectives.
 
-## **`Multi-Agent Cognition Flow`**
+## **Multi-Agent Cognition Flow**
   
 ![image](https://github.com/user-attachments/assets/24dce119-5e5a-4042-aaf5-91a559eb2828)
 ## The system operates through nested cognitive loops that implement a recursive market interpretation framework:
@@ -143,7 +143,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -e .
 ```
 
-## **`Quick Start`**
+## **Quick Start**
 
 ```python
 from multi_agent_debate import PortfolioManager
@@ -181,7 +181,7 @@ portfolio.generate_attribution_report()
 portfolio.visualize_consensus_graph()
 ```
 
-## **`Interpretability`**
+## **Interpretability**
 
 Multi-Agent Hedge Fund prioritizes transparent decision-making through recursive attribution tracing. Use the following flags to inspect agent cognition:
 
@@ -199,7 +199,7 @@ python -m multi_agent_debate.run --agent-conflict-map
 python -m multi_agent_debate.run --attribution-report
 ```
 
-## **`Extending the Framework`**
+## **Extending the Framework**
 
 The system is designed for extensibility at multiple levels:
 
