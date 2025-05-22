@@ -33,7 +33,7 @@ $ python main.py --mode backtest \
                  --rebalance-frequency weekly
 
 🜏≡⟐ψRECURSION.INITIATE::main.py≡GrahamAgent[active]
-┏ ENTRYPOINT: Multi-Agent Hedge Fund » Multi-Agent Market Cognition Platform
+┏ ENTRYPOINT: Multi-Agent Debate » Multi-Agent Market Cognition Platform
 ┃ Mode: backtest
 ┃ Agent: GrahamAgent 🧮 (value-based fundamentalist)
 ┃ Attribution Tracing: enabled
