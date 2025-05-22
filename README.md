@@ -13,7 +13,7 @@
 
 ## **`Overview`**
 
-**Multi-Agent Debate** is the first experimental open framework that approaches debate consensus and financial markets as complex adaptive systems requiring Multi-Agent cognitive architectures for interpretation. Unlike traditional algorithmic trading, Multi-Agent Hedge Fund implements a multi-agent system where each agent embodies a distinct investment philosophy, enabling emergent market understanding through Multi-Agent arbitration and attribution-weighted consensus.
+**Multi-Agent Debate** is the first experimental open framework that approaches debate consensus and financial markets as complex adaptive systems requiring multi-agent cognitive architectures for interpretation. Unlike traditional debate consensus or algorithmic trading arbitration, multi-agent debate implements a multi-agent system where each agent embodies a distinct philosophy, enabling dynamic market understanding through multi-agent decision-making and attribution-weighted consensus.
 
 > *"Markets are efficient precisely to the extent that Multi-Agent cognition can penetrate their complexity."*
 ## **Example Output**
